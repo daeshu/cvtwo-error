@@ -84,9 +84,45 @@
 
 # Aplicador
 - company:
+  position: Docente temporal
+  duration: 2014
+  summary: Docente Temporal del curso de Razonamiento Verbal en la Institución Educativa Particular Jesús de Nazareth Tacna; desde el 13 de octubre al 20 de diciembre del 2014.
+
+# Orientador
+- company:
+  position: Orientador
+  duration: 2014
+  summary: Orientador Concursos Excepcionales de Reubicación en la Tercera, Cuarta, Quinta y Sexta Escala Magisterial, Instituto Nacional de Estadística e Informática.
+
+# Aplicador
+- company:
   position: Aplicador
   duration: 2014
-  summary: Aplicador Evaluación Censal de Estudiantes 2014, Instituto Nacional de Estadística e Informática de Tacna, realizado en el mes de noviembre del año 2014.
+  summary: Aplicador MC-2013 Evaluación Censal de Estudiantes 2013, Instituto Nacional de Estadística e Informática, efectuado en el mes de noviembre del 2013.
+
+# Empadronador
+- company:
+  position: Empadronador
+  duration: 2013
+  summary: Empadronador Empadronamiento Distrital de Población y Vivienda 2012 - 2013, Instituto Nacional de Estadística e Informática, efectuado desde el 01 de octubre al 30 de octubre del año 2013.
+
+# Controlador
+- company:
+  position: Controlador de Sala y Seguridad de Terminal
+  duration: 2011
+  summary: Controlador de Sala y Seguridad de Terminal Gerencia de Terminales Terrestres, Municipalidad Provincial de Tacna; desde el 01 de febrero hasta el 31 de octubre del año 2011.
+
+# Controlador
+- company:
+  position: Docente de reemplazo
+  duration: 2010
+  summary: Docente de reemplazo Comunicación Institución Educativa Coronel Gregorio Albarracín de Tarata; desde el 17 de junio hasta el 29 de diciembre del año 2010.
+
+
+
+
+
+
 
 
 
